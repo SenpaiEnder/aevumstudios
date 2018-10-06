@@ -13,8 +13,7 @@ module.exports = {
         const embed = new Discord.RichEmbed()
         .setColor("42C0FB")
         .addField("User Added!", memberd + " added to " + channeld + "!")
-        .setFooter('© Aevum Studios', 'https://media.discordapp.net/attachments/425141295648866304/497827096211750922/image0.jpg?width=270&height=270
-')
+        .setFooter('© Aevum Studios', 'https://media.discordapp.net/attachments/425141295648866304/497827096211750922/image0.jpg?width=270&height=270')
         .setTimestamp(message.timestamp)
 
         message.channel.send(embed);
