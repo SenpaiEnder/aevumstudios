@@ -32,6 +32,6 @@ client.on('message', message => {
 		message.reply('there was an error trying to execute that command!');
 	}
 });
-client.login('NDgxNTEwODM0MDA3NDQxNDA4.Dl3Ztw.nOGslOD5j32G2qX2J-ijl-O_WG8');
+client.login('NDk3ODMwNzUzNjYxMzUzOTk1.Dpm01Q.5DN6aenRhxZYVg7PktSazdnTdTk');
 
 //Many of this code was recieved from the Discord.JS official guide
